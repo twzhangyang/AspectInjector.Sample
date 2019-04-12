@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "1957e432a6f31a5c5e38c44dbf9cf7932b5d521c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "AspectInjector": "2.0.6"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "AspectInjector/2.0.6": {
+        "runtime": {
+          "lib/netstandard2.0/AspectInjector.Broker.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "2.0.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspectInjector/2.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DgcKMS+3WJ88cpuzjCCcFuiI1GCAUKYAJoPallPWIzzhwWuUXp3nANwoQjxH6o80weop3P/o1YqVoAyUpe1Otw==",
+      "path": "aspectinjector/2.0.6",
+      "hashPath": "aspectinjector.2.0.6.nupkg.sha512"
+    }
+  }
+}

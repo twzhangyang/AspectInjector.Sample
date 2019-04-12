@@ -1,0 +1,11 @@
+D:\AspectInjector.Sample\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+D:\AspectInjector.Sample\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+D:\AspectInjector.Sample\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+D:\AspectInjector.Sample\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+D:\AspectInjector.Sample\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\AspectInjector.Sample\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+D:\AspectInjector.Sample\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+D:\AspectInjector.Sample\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+D:\AspectInjector.Sample\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+D:\AspectInjector.Sample\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+D:\AspectInjector.Sample\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
